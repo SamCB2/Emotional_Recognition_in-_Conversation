@@ -141,6 +141,5 @@ Ensure you have a compatible GPU (A100 preferred, T4 acceptable), and run the no
 ## Contact
 
 **Authors**:  
-- Samer Meleka  
-- Collaborators: [List collaborators if applicable]  
+- Samer Meleka   
 **Email**: [samermmeleka@gmail.com](mailto:samermmeleka@gmail.com)
